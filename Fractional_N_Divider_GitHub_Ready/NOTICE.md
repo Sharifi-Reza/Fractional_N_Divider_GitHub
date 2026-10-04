@@ -1,7 +1,7 @@
 # Notice
 
 This repository is a portfolio-oriented copy of a four-person university course project.
-The RTL was developed collaboratively. Mohammad Reza Sharifi's principal contribution
+The RTL was developed collaboratively. My principal contribution
 was verification and testbench development, including the final self-checking divider
 and SDM-integration testbenches, regression execution, and RTL/post-synthesis validation.
 
