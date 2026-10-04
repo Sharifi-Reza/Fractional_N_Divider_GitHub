@@ -1,0 +1,45 @@
+# Cadence/Xcelium generated files
+xcelium.d/
+xrun.history
+xrun.log
+*.history
+*.key
+*.shm/
+*.dsn
+*.trn
+*.vcd
+*.fsdb
+*.wlf
+
+# Coverage databases / exported reports
+cov_work/
+*.ucd
+*.ucm
+coverage/html/
+coverage/imc/
+
+# Generated synthesis / gate-level artifacts
+netlist/
+sim/
+reports/
+gen_db/
+*.sdf
+*_postsyn.v
+*_constraints.g
+
+# Proprietary/third-party technology files
+tech/
+pdk/
+*.lib
+*.db
+
+# External course-team dependency (not redistributed publicly)
+external/g4_sdm/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*~
+*.swp
