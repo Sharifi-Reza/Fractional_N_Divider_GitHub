@@ -9,6 +9,6 @@ and SDM-integration testbenches, regression execution, and RTL/post-synthesis va
 The following are intentionally not redistributed in this public package:
 
 - TSMC 180 nm technology/library files or other proprietary PDK material.
-- PDK-derived gate-level netlists/SDF/reports unless public redistribution is explicitly permitted.
-- Group-4 MASH 1-1 SDM RTL/netlist/SDF, because that block originated from another course team.
-- The full group report unless all contributors and the course policy permit publication.
+- PDK-derived gate-level netlists/SDF/reports 
+- Group-4 MASH 1-1 SDM RTL/netlist/SDF
+- The full group report 
